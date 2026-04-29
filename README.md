@@ -9,7 +9,10 @@ This repository contains manual testing projects.
    - Negative Testing
    - Edge Cases
    - Basic Security Scenarios
-
+     
+## Project 2: Elevator System Testing
+- Covered multiple scenarios like floor selection, door operations, and edge cases
+- 
 ## Tools Used:
 - Microsoft Excel
 
