@@ -11,8 +11,10 @@ This repository contains manual testing projects.
    - Basic Security Scenarios
      
 ## Project 2: Elevator System Testing
-- Covered multiple scenarios like floor selection, door operations, and edge cases
-- 
+- Wrote test cases for basic elevator features like floor selection and door operations  
+- Covered different situations like multiple floor requests and button usage  
+- Checked that the elevator works correctly in normal and edge cases  
+  
 ## Tools Used:
 - Microsoft Excel
 
