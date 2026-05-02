@@ -15,7 +15,7 @@ This repository contains manual testing projects.
 - Covered different situations like multiple floor requests and button usage  
 - Checked that the elevator works correctly in normal and edge cases
 
-  ## Project 3: Registration Form Testing
+## Project 3: Registration Form Testing
 - Designed 25+ test cases for user registration form
 - Covered validations like email, password, mobile number
 - Included positive, negative and edge test cases
